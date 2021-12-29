@@ -11,7 +11,7 @@ Users should be able to:
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-- BS5 Grid
+- BS5 Grid Component
 
 ### Where to find everything
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
